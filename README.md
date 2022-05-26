@@ -1,0 +1,2 @@
+# vstatistics
+VCup Statistics app
